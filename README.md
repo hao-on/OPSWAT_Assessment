@@ -10,7 +10,7 @@
    $ cd <folder>
    $ python main.py 'api: <API_KEY>' 'file: <FILENAME or FILEPATH>
    ```
-     ! Example: python main.py 'api: 1234' 'file: sample.txt'
+     Example: python main.py 'api: 1234' 'file: sample.txt'
 
   ### Softwares
   1. Ubuntu 20.04.1 LTS
