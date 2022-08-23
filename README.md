@@ -8,7 +8,7 @@
   3. Run
    ```sh
    $ cd <folder>
-   $ python main.py 'api: <API_KEY>' 'file: <FILENAME or FILEPATH>
+   python main.py 'api: <API_KEY>' 'file: <FILENAME or FILEPATH>
      # Example: python main.py 'api: 1234' 'file: sample.txt'
    ```
   ### Softwares
