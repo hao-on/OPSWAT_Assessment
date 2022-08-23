@@ -8,8 +8,8 @@
   3. Run
    ```sh
    $ cd <folder>
-   $ python main.py 'api: <API_KEY>' 'file: <FILENAME or FILEPATH> or python3 main.py 'api: <API_KEY>' 'file: <FILENAME or FILEPATH>
-     Example: python main.py 'api: 1234' 'file: sample.txt
+   $ python main.py 'api: <API_KEY>' 'file: <FILENAME or FILEPATH>
+     Example: python main.py 'api: 1234' 'file: sample.txt'
    ```
   ### Softwares
   1. Ubuntu 20.04.1 LTS
