@@ -16,7 +16,7 @@
   2. VirtualBox 6.1
       * https://www.virtualbox.org
   ### File Details
-  1. *function.py* - define a class connected to the OPSWAT's API to perform the given methods
-  2. *hash.py* - implement methods to calculate the hassh value of a file
-  3. *main.py* - main class
+  1. ***function.py*** - define a class connected to the OPSWAT's API to perform the given methods
+  2. ***hash.py*** - implement methods to calculate the hassh value of a file
+  3. ***main.py*** - main class
 
