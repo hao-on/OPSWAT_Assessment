@@ -9,7 +9,7 @@
    ```sh
    $ cd <folder>
    $ python main.py 'api: <API_KEY>' 'file: <FILENAME or FILEPATH>
-     Example: python main.py 'api: 1234' 'file: sample.txt'
+     #Example: python main.py 'api: 1234' 'file: sample.txt'
    ```
   ### Softwares
   1. Ubuntu 20.04.1 LTS
@@ -18,6 +18,6 @@
       * https://www.virtualbox.org
   ### File Details
   1. ***function.py*** - define a class connected to the OPSWAT's API to perform the given methods
-  2. ***hash.py*** - implement methods to calculate the hassh value of a file
+  2. ***hash.py*** - implement methods to calculate the hash value of a file
   3. ***main.py*** - main class
 
