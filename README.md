@@ -1,6 +1,6 @@
 # Instruction to getting started
   ### Installation
-  1. Get a free API Key at [https://metadefender.opswat.com]
+  1. Get a free API Key at https://metadefender.opswat.com
   2. Clone the repo
    ```sh
    git clone https://github.com/enigma-vh/OPSWAT_Assessment.git
